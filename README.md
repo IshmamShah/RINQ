@@ -1,6 +1,6 @@
 # RINQ – Quantum Engine for Protein Network Centrality
 
-**RINQ** enables quantum-enhanced critical residue identification in protein networks, supporting scalable protein structure analysis for protein engineering and drug discovery.
+**RINQ** is a quantum-enhanced method for identifying critical residues in protein networks, enabling scalable protein structure analysis for protein engineering and drug discovery.
 
 ---
 
