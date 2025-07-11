@@ -6,7 +6,7 @@
 
 ## Contents
 
-- **PDF files**: Contain the Jupyter Notebook code for the implementation of the RINQ pipeline. All required packages are listed within these notebook files.
+- **PDF files**: Contain the Jupyter Notebook code for the implementation of the RINQ pipeline for each of the proteins. All required packages are listed within these notebook files.
 - **PNG files**: Contain the network visualizations generated during analysis.
 
 ---
