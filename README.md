@@ -13,7 +13,7 @@
 
 ## Reference
 
-This project accompanies our manuscript:
+All theoretical details of the project are available in the following manuscript:
 
 > [RinQ: Predicting central sites in proteins on current quantum computers](https://chemrxiv.org/engage/chemrxiv/article-details/686581403ba0887c333e255c).
 
@@ -21,7 +21,7 @@ This project accompanies our manuscript:
 
 ## Contact
 
-For questions or comments, contact **smohtas@ncsu.edu**.
+For questions or comments, please feel free to contact **smohtas@ncsu.edu**.
 
 ---
 
