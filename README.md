@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-pip install .
+pip install git+https://github.com/IshmamShah/RINQ.git
 ```
 
 ## Usage Example
