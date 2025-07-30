@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RINQ – Residue Interaction Network Quantum engine
 
 **RINQ** is a Python package that applies quantum and quantum-inspired algorithms to compute centrality measures in protein residue interaction networks.
@@ -40,12 +39,8 @@ All theoretical details of the project are available in the following manuscript
 
 ## Contact
 
-For questions or comments, please feel free to contact **smohtas@ncsu.edu**.
+For questions or comments, please feel free to contact **smohtas@ncsu.edu** / **sishmam51@gmail.com**.
 
 ---
 
 
-
-
-
->>>>>>> 1017433dc037113506a7ae12c99260c3512f80db
