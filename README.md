@@ -15,7 +15,7 @@ from rinq.network import construct_protein_residue_network, create_adjacency_mat
 from rinq.centrality import compute_eigenvector_centrality
 from rinq.qubo import construct_qubo_matrix, solve_qubo_simulated_annealing
 ```
-=======
+
 # RINQ – Quantum Engine for Protein Network Centrality
 
 **RINQ** is a quantum-enhanced method for identifying critical residues in protein networks, enabling scalable protein structure analysis for protein engineering and drug discovery.
