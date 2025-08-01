@@ -1,22 +1,6 @@
-# RINQ – Residue Interaction Network Quantum engine
+# RINQ – Residue Interaction Network Quantum 
 
-**RINQ** is a Python package that applies quantum and quantum-inspired algorithms to compute centrality measures in protein residue interaction networks.
 
-## Installation
-
-```bash
-pip install git+https://github.com/IshmamShah/RINQ.git
-```
-
-## Usage Example
-
-```python
-from rinq.network import construct_protein_residue_network, create_adjacency_matrix
-from rinq.centrality import compute_eigenvector_centrality
-from rinq.qubo import construct_qubo_matrix, solve_qubo_simulated_annealing
-```
-
-# RINQ – Quantum Engine for Protein Network Centrality
 
 **RINQ** is a quantum-enhanced method for identifying critical residues in protein networks, enabling scalable protein structure analysis for protein engineering and drug discovery.
 
