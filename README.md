@@ -8,7 +8,6 @@
 
 ## Contents
 - **notebook folder**: Contains all the Jupyter notebooks to reproduce the results in the manuscript.
-- **PDF files**: Contain the Jupyter Notebook code for the implementation of the RINQ pipeline for each of the proteins. All required packages are listed within these notebook files. A user can copy the notebook code and run it as-is to replicate the pipeline on their machine.
 - **PNG files**: Contain the network visualizations generated during analysis.
 
 ---
